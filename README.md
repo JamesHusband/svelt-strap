@@ -2,11 +2,12 @@
 
 # SveltStrap - A Svelte 5 SaaS Boilerplate
 
-### Comes With
+### Features ✨
 
-- 💻 **Svelte 5 and SvelteKit 2**
-- 🚪 **Styling** (using tailwindcss)
-- ☁️ **Serverless hosting** using vercel
+- 🧩 **Component Based** - Built with reusable components using Svelte's powerful component system for maximum flexibility and maintainability.
+- 🎨 **Modern Styling** - Powered by TailwindCSS and shadcn-svelte for beautiful, responsive, and customizable designs.
+- 🧪 **Full Test Suite** - Comprehensive testing with ViTest for unit tests, Playwright for E2E, and Storybook for component testing.
+- 📈 **Scalable As Standard** - Built with scalability in mind, featuring a well-organized structure and best practices for growing applications.
 
 ### Getting Started 🚀
 

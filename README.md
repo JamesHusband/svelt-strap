@@ -1,6 +1,6 @@
-<img src="static/svelt-strap.jpg" alt="SveltStrap - A Svelte 5 SaaS Boilerplate" width="100%" />
+<img src=".github/readme.webp" alt="SveltStrap - A Svelte SaaS Boilerplate" width="100%" />
 
-# SveltStrap - A Svelte 5 SaaS Boilerplate
+# SveltStrap - A Svelte SaaS Boilerplate
 
 ### Features ✨
 
